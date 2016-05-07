@@ -150,7 +150,7 @@ $.fn.formJSON = function(){
         $('#modal-' + form_modal.data('form') + '-content').html( data );
         resBaldrickTriggers();
         if(typeof caldera_conditionals !== 'undefined'){
-          calders_forms_init_conditions();
+          caldera_forms_init_conditions();
         }        
 
       } );

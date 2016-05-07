@@ -132,7 +132,7 @@ jQuery(function($){
 						errorTemplate : '<span></span>'
 					});
 				}
-				calders_forms_init_conditions();
+				caldera_forms_init_conditions();
 			}
 		});	
 
